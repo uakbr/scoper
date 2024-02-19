@@ -7,13 +7,24 @@
    - [ ] Using Azure for specific, limited purposes
    - [ ] Heavily integrated into our IT infrastructure
 
-#### Azure Virtual Machines (VMs)
-2. **How many Azure VMs do you currently have deployed?**
-   - [ ] 1-10
-   - [ ] 11-50
-   - [ ] 51-100
-   - [ ] More than 100
+#### Azure Subscription and Tenant Details
+- **How many Azure subscriptions are you currently managing?**
+  - [ ] 1-5
+  - [ ] 6-10
+  - [ ] 11-20
+  - [ ] More than 20
 
+- **How many Azure Active Directory (AD) tenants do you have?**
+  - [ ] 1 (Single tenant)
+  - [ ] 2-5 (Multiple tenants for different business units or regions)
+  - [ ] More than 5
+
+#### VM and Service Counts in Azure
+- **In addition to the previous question on VMs, can you specify the range of VMs you're utilizing in Azure?**
+  - [ ] 1-50
+  - [ ] 51-200
+  - [ ] 201-500
+  - [ ] More than 500
 3. **What types of Azure VMs are predominantly used in your environment?** (Select all that apply)
    - [ ] General purpose
    - [ ] Compute optimized
@@ -156,6 +167,20 @@
    - [ ] Using AWS for specific, limited purposes
    - [ ] Heavily integrated into our IT infrastructure
 
+#### AWS Account Structure
+- **How many AWS accounts are you managing under your organization?**
+  - [ ] 1-5
+  - [ ] 6-10
+  - [ ] 11-20
+  - [ ] More than 20
+
+#### Service Instance Counts in AWS
+- **Can you specify the number of EC2 instances deployed in AWS?**
+  - [ ] 1-50
+  - [ ] 51-200
+  - [ ] 201-500
+  - [ ] More than 500
+
 #### AWS Services Utilization
 2. **Which AWS services are you currently utilizing?** (Select all that apply)
    - [ ] Compute (EC2, Lambda)
@@ -247,3 +272,7 @@
    - [ ] Attracting and retaining skilled IT personnel
    - [ ] Ensuring data privacy and security
    - [ ] Other (Please specify): __________
+
+
+
+
